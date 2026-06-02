@@ -27,4 +27,4 @@ I'm a Computer Science Student & Web Developer passionate about creating interac
 
 ### 📫 Connect with me
 - **Professional Brand:** Jexora
-- **LinkedIn:** [Your LinkedIn Profile Link Here]
+
